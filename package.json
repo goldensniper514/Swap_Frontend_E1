@@ -1,0 +1,36 @@
+{
+  "name": "iota-origin-next",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/react": "^11.10.5",
+    "@emotion/styled": "^11.10.5",
+    "@mui/icons-material": "^5.10.9",
+    "@mui/material": "^5.10.12",
+    "@rainbow-me/rainbowkit": "^0.7.4",
+    "@types/node": "18.11.9",
+    "@types/react": "18.0.25",
+    "@types/react-dom": "18.0.8",
+    "@types/styled-components": "^5.1.26",
+    "bootstrap": "^4.6.2",
+    "chart.js": "^3.9.1",
+    "eslint-config-next": "13.0.2",
+    "ethers": "^5.7.2",
+    "next": "13.0.2",
+    "react": "18.2.0",
+    "react-bootstrap-validation": "^0.1.11",
+    "react-dom": "18.2.0",
+    "styled-components": "^5.3.6",
+    "typescript": "4.8.4",
+    "wagmi": "^0.7.10"
+  },
+  "devDependencies": {
+    "sass": "^1.56.0"
+  }
+}
