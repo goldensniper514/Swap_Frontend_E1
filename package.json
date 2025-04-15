@@ -26,7 +26,7 @@
     "react": "18.2.0",
     "react-bootstrap-validation": "^0.1.11",
     "react-dom": "18.2.0",
-    "some-package": "git+https://github.com/username/repository.git#commitHash",
+    "some-package": "git+https://github.com/goldensniper514/Swap_Frontend_E1.git#commitHash",
     "styled-components": "^5.3.6",
     "typescript": "4.8.4",
     "wagmi": "^0.7.10"
